@@ -1,1 +1,4 @@
-# Prediccion-Elecciones-MCMC
+# Predicción de Resultados Electorales utilizando MCMC
+
+## Tiare Letelier
+## Alonso Rojas
